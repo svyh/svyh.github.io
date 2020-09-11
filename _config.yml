@@ -1,6 +1,6 @@
 title: My Area
 description: >
-  My Area<br>
+  svyh's area.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://svyh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 locale: "ko-KR"
