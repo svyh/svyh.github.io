@@ -3,15 +3,13 @@ description: >
   My Area<br>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://svyh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+locale: "ko-KR"
 
 author:
   name: 'svyh'
   avatar: '/images/logo.png'
   github_username:  svyh  
-  email: 
-  vk_id: 
-  telegram_name:  
+  email: '' 
   logo: '/images/logo.png'
 
 # Build settings
